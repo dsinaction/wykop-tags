@@ -13,7 +13,7 @@ class WykopAPIError(Exception):
 
 class WykopAPI:
     '''
-    API wrapper of wykop.pl's API.
+    API Client for wykop.pl's API.
     API documentation: https://www.wykop.pl/dla-programistow/apiv2docs/
     '''
 
