@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.egg-info
+
+# Data/Temp
+links
+.ipynb_checkpoints
+nlp-tools
+datasets
+notebooks/**/resources
+*.tar.gz
+
+# Environments
+.idea
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+temp/
