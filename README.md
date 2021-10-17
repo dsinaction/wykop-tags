@@ -1,6 +1,6 @@
 # Wykop Tags
 
-Repozytorum do tekstu [Wyciąganie danych przez REST API](https://dsinaction.pl/index.php/2021/10/07/wyciaganie-danych-przez-rest-api/)
+Repozytorum do tekstów [Wyciąganie danych przez REST API](https://dsinaction.pl/index.php/2021/10/07/wyciaganie-danych-przez-rest-api/), [wykop.pl – Analiza znalezisk](https://dsinaction.pl/index.php/2021/10/17/wykop-pl-analiza-znalezisk/).
 
 ## Wykop API
 
